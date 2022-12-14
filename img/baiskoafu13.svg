@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="71.7011869%" y1="15.1660957%" x2="17.5688683%" y2="91.9131968%" id="linearGradient-1">
+            <stop stop-color="#782FE2" offset="0%"></stop>
+            <stop stop-color="#12B7D3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.804182471%" y1="63.7390087%" x2="100%" y2="63.7390077%" id="linearGradient-2">
+            <stop stop-color="#782FE2" offset="0%"></stop>
+            <stop stop-color="#6443CC" offset="0%"></stop>
+            <stop stop-color="#12B8D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New-Additions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01" transform="translate(-9.000000, -1430.000000)">
+            <g id="Group-13" transform="translate(10.000000, 1179.000000)">
+                <g id="Group-17" transform="translate(0.000000, 252.000000)">
+                    <circle id="Oval-3-Copy-3" stroke="url(#linearGradient-1)" stroke-width="0.75" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                    <g id="Group-11" transform="translate(10.125000, 9.000000)" fill="url(#linearGradient-2)">
+                        <path d="M0,0 L8.87220501,0 L8.87220501,0.739350417 L0,0.739350417 L0,0 Z M0,1.99624613 L8.87220501,1.99624613 L8.87220501,2.73559654 L0,2.73559654 L0,1.99624613 Z M0,3.99249225 L8.87220501,3.99249225 L8.87220501,4.73184267 L0,4.73184267 L0,3.99249225 Z M0,5.98873838 L8.87220501,5.98873838 L8.87220501,6.7280888 L0,6.7280888 L0,5.98873838 Z M0,7.98498451 L4.14036234,7.98498451 L4.14036234,8.72433492 L0,8.72433492 L0,7.98498451 Z M10.3509058,0 L11.0902563,0 L11.0902563,10.646646 L10.3509058,10.646646 L10.3509058,0 Z" id="lyrics"></path>
+                        <g id="Group-10" transform="translate(5.878103, 8.906250)">
+                            <path d="M4.09102413,4.18602739 C2.90756998,5.2516143 1.28370709,5.3774592 0.464024849,4.46710985 C-0.355657388,3.5567605 -0.0607619816,1.95494768 1.12269217,0.889360768 C2.30614633,-0.176226139 3.93000922,-0.302071044 4.74969146,0.608278306 C5.56937369,1.51862766 5.27447829,3.12044048 4.09102413,4.18602739 Z M3.51641625,3.64821861 C4.3965576,2.85573578 4.66393497,1.71783709 4.11362032,1.10665076 C3.56330567,0.495464421 2.40369196,0.642434267 1.52355061,1.4349171 C0.643409266,2.22739993 0.376031898,3.36529861 0.926346547,3.97648495 C1.4766612,4.58767129 2.6362749,4.44070144 3.51641625,3.64821861 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
